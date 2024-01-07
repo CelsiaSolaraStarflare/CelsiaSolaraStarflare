@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @CelsiaSolaraStarflare
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @CelsiaSolaraStarflare (she/her)
+15 Years Old(almost 16 yayyy)! GRADE 10 ^^
+  (INTERNATIONAL SCHOOL) Languages: English, 简体中文, 繁體中文
+  Program Languages: Python, Swift, C++, HTML, Scratch(is not an elementary coding language ty it can be difficult).
+  
+GUESS MY MAJOR!!! :p
+Okie nevermind, here's what I am studying:
+1. Deep Learning/Machine Learning(IT Student),
+2. Physics and Mechanics and Quantumn Physics(Physics Student),
+3. Visual Arts and Music Composing,
+4. English Literature(At least I want to but look at my grammar lol),
+5. Laser Shooting Team(almost nade it into the district team but nah because I am not a sports student)...etc.
+
+Tell me what should I study! I will try doing that subject!
+
 
 <!---
 CelsiaSolaraStarflare/CelsiaSolaraStarflare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
