@@ -3,7 +3,7 @@
   (INTERNATIONAL SCHOOL) Languages: English, 简体中文, 繁體中文
   Program Languages: Python, Swift, C++, HTML, Scratch(is not an elementary coding language ty it can be difficult).
   
-GUESS MY MAJOR!!! :p
+GUESS MY MAJOR!!! :P
 Okie nevermind, here's what I am studying:
 1. Deep Learning/Machine Learning(IT Student),
 2. Physics and Mechanics and Quantumn Physics(Physics Student),
@@ -13,6 +13,9 @@ Okie nevermind, here's what I am studying:
 
 Tell me what should I study! I will try doing that subject!
 
+# Bronze Award Winner of St. Yau 2024 Computer Science Award (Global Finalist)
+# Two times ACSL Personal High Score and Team Honorable Mention (2023,2024)
+# #21 Civitai Background Models creator
 
 <!---
 CelsiaSolaraStarflare/CelsiaSolaraStarflare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
