@@ -15,7 +15,7 @@ Tell me what should I study! I will try doing that subject!
 
 # Bronze Award Winner of St. Yau 2024 Computer Science Award (Global Finalist)
 # Two times ACSL Personal High Score and Team Honorable Mention (2023,2024)
-# #27 Civitai Background Models creator
+# #22 Civitai Background Models creator
 
 <!---
 CelsiaSolaraStarflare/CelsiaSolaraStarflare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
