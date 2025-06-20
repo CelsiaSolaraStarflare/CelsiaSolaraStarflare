@@ -11,11 +11,7 @@
 
 ## 💡 What am I studying? (Take a guess... ok no, I’ll just tell you 😆)
 
-1. 🧠 **Deep Learning / Machine Learning** – aspiring IT researcher
-2. 🌌 **Physics, Mechanics & Quantum Physics** – fascinated by the universe!
-3. 🎨 **Visual Arts & Music Composition** – painting and composing with heart
-4. 📚 **English Literature** – trying my best (grammar still a work in progress haha~)
-5. 🔫 **Laser Shooting Team** – I nearly made the district team! (Not a sports student, but I tried hard!!)
+🧠 **Deep Learning / Machine Learning** – aspiring IT researcher
 
 ---
 
