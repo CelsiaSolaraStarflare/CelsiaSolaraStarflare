@@ -1,27 +1,53 @@
-- 👋 Hi, I’m @CelsiaSolaraStarflare (she/her)
-17 Years Old(almost 18 wait what?)! GRADE 11 ^^
-  (INTERNATIONAL SCHOOL) Languages: English, 简体中文, 繁體中文
-  Program Languages: Python, Swift, C++, HTML, Scratch(is not an elementary coding language ty it can be difficult).
-  
-GUESS MY MAJOR!!! :P
-Okie nevermind here's what I am studying:
-1. Deep Learning/Machine Learning(IT Student),
-2. Physics and Mechanics and Quantum Physics(Physics Student),
-3. Visual Arts and Music Composing,
-4. English Literature(At least I want to but look at my grammar lol),
-5. Laser Shooting Team(almost made it into the district team but nah because I am not a sports student)...etc.
+# 🌸 Hi there~ I'm @CelsiaSolaraStarflare (she/her) 🌸  
+*Also known as Celsia Juilyn Fan or Chengjui Fan* ✨
 
-Tell me what should I study! I will try doing that subject!
+🌟 17 years old (wait almost 18?! how did that happen so fast?? 😳)  
+🎓 Grade 11 at an International School  
+🌐 Languages: English · 简体中文 · 繁體中文  
+💻 Programming Languages: Python · Swift · C++ · HTML · Scratch  
+(*Yes, Scratch can be deep and powerful too! Don’t underestimate it lol~ 💅*)
 
-# Bronze Award Winner of St. Yau 2024 Computer Science Award (Global Finalist)
-# Two times ACSL Personal High Score and Team Honorable Mention (2023,2024)
-# #22 Civitai Background Models creator
+---
 
-<!---
-CelsiaSolaraStarflare/CelsiaSolaraStarflare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![](https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-light-mode-only)
+## 💡 What am I studying? (Take a guess... ok no, I’ll just tell you 😆)
+
+1. 🧠 **Deep Learning / Machine Learning** – aspiring IT researcher
+2. 🌌 **Physics, Mechanics & Quantum Physics** – fascinated by the universe!
+3. 🎨 **Visual Arts & Music Composition** – painting and composing with heart
+4. 📚 **English Literature** – trying my best (grammar still a work in progress haha~)
+5. 🔫 **Laser Shooting Team** – I nearly made the district team! (Not a sports student, but I tried hard!!)
+
+---
+
+## 🪄 What should I study next?
+Seriously~ Tell me! I’ll try anything if it sounds magical or meaningful ✨💭
+
+---
+
+## 🏆 Achievements (so far hehe…)
+
+- 🥉 **Bronze Award** — *St. Yau 2024 Computer Science Award (Global Finalist)*  
+- 🏅 **ACSL Personal High Score & Team Honorable Mention** – 2023 & 2024  
+- 🖼️ **#22 Civitai Background Models Creator** – blending tech and art with love
+
+---
+
+## 🦄 About Me
+
+Let’s be friends or collaborators~ I'm always open to creative projects, scientific experiments, or just vibing with music and code 💖🎧🧪
+
+---
+
+## ✨ GitHub Stats
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg" />
+</picture>
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="Top Languages" src="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg" />
+</picture>
