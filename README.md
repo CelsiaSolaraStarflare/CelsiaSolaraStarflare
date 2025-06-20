@@ -1,5 +1,5 @@
 # 🌸 Hi there~ I'm @CelsiaSolaraStarflare (she/her) 🌸  
-*Also known as Celsia Juilyn Fan or Chengjui Fan* ✨
+*Also known as Juilyn Celsia Fan or Chengjui Fan* ✨
 
 🌟 17 years old (wait almost 18?! how did that happen so fast?? 😳)  
 🎓 Grade 11 at an International School  
