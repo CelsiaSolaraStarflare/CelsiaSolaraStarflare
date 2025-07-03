@@ -24,7 +24,7 @@ Seriously~ Tell me! I’ll try anything if it sounds magical or meaningful ✨�
 
 - 🥉 **Bronze Award** — *St. Yau 2024 Computer Science Award (Global Finalist)*  
 - 🏅 **ACSL Personal High Score & Team Honorable Mention** – 2023 & 2024  
-- 🖼️ **#22 Civitai Background Models Creator** – blending tech and art with love
+- 🖼️ **#21 Civitai Background Models Creator** – blending tech and art with love
 
 ---
 
