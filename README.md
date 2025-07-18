@@ -1,49 +1,74 @@
-# 🌸 Hi there~ I'm @CelsiaSolaraStarflare (she/her) 🌸  
-*Also known as Juilyn Celsia Fan or Chengjui Fan* ✨
+# Celsia Solara Starflare
 
-🌟 17 years old (wait almost 18?! how did that happen so fast?? 😳)  
-🎓 Grade 11 at an International School  
-🌐 Languages: English · 简体中文 · 繁體中文  
-💻 Programming Languages: Python · Swift · C++ · HTML · Scratch  
-(*Yes, Scratch can be deep and powerful too! Don’t underestimate it lol~ 💅*)
+**Name**: Juilyn Celsia Fan (Chengjui Fan)  
+**Pronouns**: He/Him(main), She/Her(secondary)  
 
----
-
-## 💡 What am I studying? (Take a guess... ok no, I’ll just tell you 😆)
-
-🧠 **Deep Learning / Machine Learning** – aspiring IT researcher
+- Age: 17 (turning 18 soon)  
+- Education: Grade 11, International School  
+- Languages: English, Simplified Chinese, Traditional Chinese  
+- Programming Languages: Python, Swift, C++, HTML, Scratch  
 
 ---
 
-## 🪄 What should I study next?
-Seriously~ Tell me! I’ll try anything if it sounds magical or meaningful ✨💭
+## Current Studies
+I am focused on **Deep Learning and Machine Learning**, with aspirations to become an IT researcher specializing in artificial intelligence and its applications.
 
 ---
 
-## 🏆 Achievements (so far hehe…)
+## Future Learning Interests
+I am eager to expand my knowledge in advanced technical fields. Potential areas of study include:  
+- **Computer Vision**: To develop skills in image recognition and processing for innovative AI applications.  
+- **Natural Language Processing (NLP)**: To explore how AI can interpret and generate human language.  
+- **Game Development**: To combine technical expertise with creativity using platforms like Unity or Godot.  
+- **Quantum Computing**: To investigate emerging technologies with transformative potential.  
 
-- 🥉 **Bronze Award** — *St. Yau 2024 Computer Science Award (Global Finalist)*  
-- 🏅 **ACSL Personal High Score & Team Honorable Mention** – 2023 & 2024  
-- 🖼️ **#20 Civitai Background Models Creator** – blending tech and art with love
-
----
-
-## 🦄 About Me
-
-Let’s be friends or collaborators~ I'm always open to creative projects, scientific experiments, or just vibing with music and code 💖🎧🧪
+I welcome suggestions for other impactful areas of study.
 
 ---
 
-## ✨ GitHub Stats
+## Achievements
+- **Bronze Award**, St. Yau 2024 Computer Science Award (Global Finalist)  
+- **Personal High Score & Team Honorable Mention**, American Computer Science League (ACSL), 2023 & 2024  
+- **Ranked #20**, Civitai Background Models Creator, for contributions in blending technology and art  
 
+---
+
+## About Me
+I am passionate about technology, collaboration, and innovation. I am open to:  
+- Developing creative coding projects  
+- Conducting scientific research and experiments  
+- Engaging in discussions about technology and its societal impact  
+
+Feel free to connect for potential collaborations or professional discussions.
+
+---
+
+## GitHub Statistics
+
+### Overview
 <picture>
   <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
   <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="GitHub Stats" src="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg" />
 </picture>
 
+### Top Languages
 <picture>
   <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
   <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img alt="Top Languages" src="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg" />
+</picture>
+
+### Contribution Streak
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=CelsiaSolaraStarflare&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=CelsiaSolaraStarflare&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsiaSolaraStarflare" />
+</picture>
+
+### GitHub Trophies
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=CelsiaSolaraStarflare&theme=darkhub" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-trophy.vercel.app/?username=CelsiaSolaraStarflare&theme=flat" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=CelsiaSolaraStarflare" />
 </picture>
