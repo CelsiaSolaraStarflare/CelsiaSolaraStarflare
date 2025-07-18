@@ -1,7 +1,7 @@
 # Celsia Solara Starflare
 
 **Name**: Juilyn Celsia Fan (Chengjui Fan)  
-**Pronouns**: He/Him(main), She/Her(secondary)  
+**Pronouns**: She/Her  
 
 - Age: 17 (turning 18 soon)  
 - Education: Grade 11, International School  
@@ -45,30 +45,41 @@ Feel free to connect for potential collaborations or professional discussions.
 
 ## GitHub Statistics
 
-### Overview
-<picture>
-  <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="GitHub Stats" src="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg" />
-</picture>
-
-### Top Languages
-<picture>
-  <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="Top Languages" src="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg" />
-</picture>
-
-### Contribution Streak
-<picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=CelsiaSolaraStarflare&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=CelsiaSolaraStarflare&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsiaSolaraStarflare" />
-</picture>
-
-### GitHub Trophies
-<picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=CelsiaSolaraStarflare&theme=darkhub" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-profile-trophy.vercel.app/?username=CelsiaSolaraStarflare&theme=flat" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=CelsiaSolaraStarflare" />
-</picture>
+<table>
+  <tr>
+    <td>
+      <h3>Overview</h3>
+      <picture>
+        <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img alt="GitHub Stats" src="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/overview.svg" />
+      </picture>
+    </td>
+    <td>
+      <h3>Top Languages</h3>
+      <picture>
+        <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img alt="Top Languages" src="https://raw.githubusercontent.com/CelsiaSolaraStarflare/github-stats/master/generated/languages.svg" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Contribution Streak</h3>
+      <picture>
+        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=CelsiaSolaraStarflare&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=CelsiaSolaraStarflare&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CelsiaSolaraStarflare" />
+      </picture>
+    </td>
+    <td>
+      <h3>GitHub Trophies</h3>
+      <picture>
+        <source srcset="https://github-profile-trophy.vercel.app/?username=CelsiaSolaraStarflare&theme=darkhub" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-profile-trophy.vercel.app/?username=CelsiaSolaraStarflare&theme=flat" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=CelsiaSolaraStarflare" />
+      </picture>
+    </td>
+  </tr>
+</table>
