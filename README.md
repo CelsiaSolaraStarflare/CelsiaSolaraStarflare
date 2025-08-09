@@ -1,6 +1,4 @@
-# Celsia Solara Starflare
-
-**Name**: Juilyn Celsia Fan
+# Juilyn Celsia Fan
 
 - Age: 17 (turning 18 soon)  
 - Education: Grade 11, International School  
