@@ -1,12 +1,11 @@
 # Celsia Solara Starflare
 
-**Name**: Juilyn Celsia Fan (Chengjui Fan)  
-**Pronouns**: She/Her  
+**Name**: Juilyn Celsia Fan
 
 - Age: 17 (turning 18 soon)  
 - Education: Grade 11, International School  
 - Languages: English, Simplified Chinese, Traditional Chinese  
-- Programming Languages: Python, Swift, C++, HTML, Scratch  
+- Programming Languages: Python, Swift, C++, Java
 
 ---
 
@@ -19,8 +18,8 @@ I am focused on **Deep Learning and Machine Learning**, with aspirations to beco
 I am eager to expand my knowledge in advanced technical fields. Potential areas of study include:  
 - **Computer Vision**: To develop skills in image recognition and processing for innovative AI applications.  
 - **Natural Language Processing (NLP)**: To explore how AI can interpret and generate human language.  
-- **Game Development**: To combine technical expertise with creativity using platforms like Unity or Godot.  
-- **Quantum Computing**: To investigate emerging technologies with transformative potential.  
+- **Quantum Computing**: To investigate emerging technologies with transformative potential.
+- **Logistics and Statistics**: For real life problem solving and large-scaled data resolving. 
 
 I welcome suggestions for other impactful areas of study.
 
