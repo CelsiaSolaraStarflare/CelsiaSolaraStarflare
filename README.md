@@ -4,7 +4,7 @@
 
 - Age: 17 (turning 18 soon)  
 - Education: Grade 11, International School  
-- Languages: English, Simplified Chinese, Traditional Chinese  
+- Languages: English, Simplified Chinese, Traditional Chinese, Korean
 - Programming Languages: Python, Swift, C++, Java
 
 ---
