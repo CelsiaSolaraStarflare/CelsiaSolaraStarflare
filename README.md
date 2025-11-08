@@ -1,6 +1,6 @@
 Juilyn Celsia Fan
 
-Education: Grade 11, International School
+Education: Grade 12, International School
 Age: 17
 Languages: English, Simplified Chinese, Traditional Chinese, Korean
 Programming: Python, Swift, C++, Java
