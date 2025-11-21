@@ -1,5 +1,5 @@
 Juilyn Celsia Fan
-
+```
 Education: Grade 12, International School
 Age: 17
 Languages: English, Simplified Chinese, Traditional Chinese, Korean
@@ -23,3 +23,4 @@ Interests
 	•	Creative coding
 	•	Research explorations
 	•	Discussions on AI and digital society
+```
