@@ -1,13 +1,15 @@
 Juilyn Celsia Fan
 ```
 Education: Grade 12, International School
-Age: 17
+Age: 18
 Languages: English, Simplified Chinese, Traditional Chinese, Korean
 Programming: Python, Swift, C++, Java
+Position: Chief Technology Officer (CTO Feb 3 2026)
 
 Focus Areas
 	•	Deep Learning & Machine Learning
 	•	Human-centered AI development
+	•	Logistics Forecasting
 
 Learning Interests
 	•	Computer Vision
